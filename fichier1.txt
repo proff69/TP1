@@ -1,12 +1,12 @@
 
 e1
-
+b1
 n1
 
 Txt
 e2
 Texte C3
-
+b2
 e3
 Mods
 
@@ -17,7 +17,7 @@ Mods
 s1
 n3
 
-
+b3
 Texte saisi depuis GitHub
 e5
 ttttt
