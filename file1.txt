@@ -1,3 +1,6 @@
 A new file
 
+new line from b1
+
 another line
+
