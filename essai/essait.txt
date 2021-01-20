@@ -3,3 +3,6 @@ Modifications depuis la branche master
 Contenu de mon fichier essai.txt
 
 Ajout depuis ma branche master
+
+Nouvelle fonctionnalité ajouté depuis b1
+
