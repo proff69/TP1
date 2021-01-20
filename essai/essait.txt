@@ -1,1 +1,5 @@
+Modifications depuis branche b1
+
 Contenu de mon fichier essai.txt
+
+Nouvelle fonctionnalité ajouté depuis b1
