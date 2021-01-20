@@ -4,6 +4,9 @@ b1
 n1
 c2
 Txt
+
+un texte intermédiaire modifié
+
 e2
 Texte C3
 b2
@@ -34,3 +37,7 @@ n5
 s3
 
 nouveau texte
+
+
+
+travail d'aujourd'hui
