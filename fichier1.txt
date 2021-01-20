@@ -4,8 +4,14 @@ b1
 n1
 c2
 Txt
+
+un texte intermédiaire modifié
+
 e2
 Texte C3
+
+texte ajouter par mon collègue
+
 b2
 e3
 Mods
@@ -17,6 +23,7 @@ Mods
 s1
 n3
 
+un autre texte intermédiaire
 
 b3
 
@@ -31,3 +38,13 @@ n4
 
 n5
 s3
+
+nouveau texte
+
+
+
+
+travail d'aujourd'hui
+
+nouvelle fonctionnalité
+
