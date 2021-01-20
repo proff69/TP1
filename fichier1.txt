@@ -6,6 +6,9 @@ c2
 Txt
 e2
 Texte C3
+
+texte ajouter par mon collègue
+
 b2
 e3
 Mods
@@ -34,3 +37,6 @@ n5
 s3
 
 nouveau texte
+
+
+nouvelle fonctionnalité
