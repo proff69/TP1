@@ -9,6 +9,9 @@ un texte intermédiaire modifié
 
 e2
 Texte C3
+
+texte ajouter par mon collègue
+
 b2
 e3
 Mods
@@ -40,4 +43,8 @@ nouveau texte
 
 
 
+
 travail d'aujourd'hui
+
+nouvelle fonctionnalité
+
